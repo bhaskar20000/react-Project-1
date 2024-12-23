@@ -4,8 +4,8 @@ const NotFound = () => (
       src="https://assets.ccbp.in/frontend/react-js/meetup/not-found-img.png"
       alt="not found"
     />
-    <h1 />
-    <p />
+    <h1>Hello</h1>
+    <p>Hello</p>
   </div>
 )
 
